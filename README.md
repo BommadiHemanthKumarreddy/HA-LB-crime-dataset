@@ -1,4 +1,4 @@
-# Crime Video Dataset
+# HA-LB Dataset
 
 **Documentation and Usage Instructions**
 
